@@ -1,4 +1,4 @@
-# Terminology
+# Terminologyyy
 
 The terminology of service-catalog has some inconvenient and entirely
 unavoidable overloading with certain terms in the
